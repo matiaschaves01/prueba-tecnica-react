@@ -1,5 +1,4 @@
-# Prueba tecnica para Juniors Trainees de React en Live Coding
-
+# Prueba tecnica para Juniors Trainees de React en Live Coding- By Midudev.
 APIs:
 -Facts Random: https://catfact.ninja/fact
 - Imagen random: https://cataas.com/cat
